@@ -1,0 +1,6 @@
+Desafio: 
+- Desenvolver uma API REST para receber o peso, geolocalização e o horário de cada pesagem realizada em campo, e exibir os dados em um aplicativo híbrido (target Android) e/ou uma interface web responsiva (acesso via celular e desktop).
+- Justificar as tecnologias escolhidas;
+- Utilizar diagramas UML para documentar o projeto;
+- Armazenar o código fonte em um repositório GIT público;
+- Efetuar o deploy da solução em um serviço de nuvem gratuito (AWS, Heroku, etc) e enviar o link da solução em execução;
